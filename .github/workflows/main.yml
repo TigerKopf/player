@@ -22,7 +22,7 @@ jobs:
 
     - name: Deploy to Server
       run: |
-        ssh -o StrictHostKeyChecking=no -T ${{ secrets.USERNAME }}@${{ secrets.HOST }} 'cd /home/steckbrief/data && git pull git@github.com:TigerKopf/efb.git'
+        ssh -o StrictHostKeyChecking=no -T ${{ secrets.USERNAME }}@${{ secrets.HOST }} 'cd /home/steckbrief/data && git pull git@github.com:TigerKopf/player.git'
 
     - name: Check if deployment was successful
 
