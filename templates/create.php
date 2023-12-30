@@ -9,7 +9,7 @@
 
 <h1>on this page you can create a Characteristics for a friend</h1>
 <br>
-<form action="send_create.php" method="post">
+<form action="submit" method="post">
         <label for="author">Author:</label>
         <input type="text" name="author" required><br>
 

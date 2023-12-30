@@ -9,7 +9,7 @@
     <h1>Welcome on player-steckbrief.info</h1>
     <h2>create your own Characteristics</h2>
     <br>
-    <a href="https://player-steckbrief.info/create.php"><button>click here</button></a>
+    <a href="index.php/create"><button>click here</button></a>
     <br>
     <br>
     <h2>you can create a fork on <a href="https://github.com/TigerKopf/player">https://github.com/TigerKopf/player</a> to edit this text</h2>
